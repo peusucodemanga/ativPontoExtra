@@ -1,3 +1,5 @@
+//Nome dos integrantes: João Pedro Ferreira da Cruz, Daniel Farani de Farias e Gustavo Alexandre Barros Souza.
+
 //1 - Definição de registro
 
 const aluno = Object.freeze({
