@@ -25,7 +25,7 @@ const adicionarAluno = (nome, idade, matricula, curso) => {
 
 //4 - Função que lista alunos
 
-const listarAlunos = (turma) => {
+const listarAlunos = () => {
    return turma.map(({nome, idade, matricula, curso}) => 
         (`nome: ${nome}, idade: ${idade}, matrícula: ${matricula}, curso: ${curso}`))
 }
